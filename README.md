@@ -16,13 +16,13 @@
 
   <main>
     <article>
-      <h2><a href="posts/post1.html">Judul Postingan Pertama</a></h2>
-      <p>Ini adalah ringkasan dari postingan pertama...</p>
+      <h2><a href="posts/post1.html">Junita Angkut Barang</a></h2>
+      <p>Junita Angkut Menerima Jasa Angkut Barang Seluruh Bali</p>
     </article>
 
     <article>
-      <h2><a href="posts/post2.html">Judul Postingan Kedua</a></h2>
-      <p>Ini adalah ringkasan dari postingan kedua...</p>
+      <h2><a href="posts/post2.html">Junita Angkut Luar Bali</a></h2>
+      <p>Junita Angkut Menerika Angkut Barang Luar Bali Tetapi Hanya Sampai Lombok</p>
     </article>
   </main>
 
@@ -30,8 +30,7 @@
     <p>© 2025 Blog Sederhana</p>
   </footer>
 </body>
-</html># sweety
-sweet for ai
+</html># junita angkut
 <!DOCTYPE html>
 <html lang="id">
 <head>

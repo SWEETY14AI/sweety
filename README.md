@@ -2,12 +2,12 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>JUNITA ANGKUT</title>
+  <title>Junita Angkut</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <header>
-    <h1>JUNITA ANGKUT</h1>
+    <h1>Junita Angkut</h1>
     <nav>
       <a href="index.html">Beranda</a>
       <a href="about.html">Tentang</a>
@@ -16,102 +16,14 @@
 
   <main>
     <article>
-      <h2><a href="posts/post1.html">Junita Angkut Barang</a></h2>
-      <p>Junita Angkut Menerima Jasa Angkut Barang Seluruh Bali</p>
+      <h2><a href="posts/post1.html">Junita Angkut Barang Dan Jasa</a></h2>
+      <p>Halo...Kami Dari Junita Angkut Menyediakan Pengangkutan Barang Menggunakan Jasa Dari Kami Langsung Dan Kami Bisa Mengambil Barang Anda Ke Tempat Tujuan Dengan Cepat Dan Pengantaran Barang Dengan Keamanan Yang Tidak Perku Di Ragukan Lagi dan Dengan Harga Yang Terjangkau</p>
     </article>
-
-    <article>
-      <h2><a href="posts/post2.html">Junita Angkut Luar Bali</a></h2>
-      <p>Junita Angkut Menerika Angkut Barang Luar Bali Tetapi Hanya Sampai Lombok</p>
-    </article>
-  </main>
-
-  <footer>
-    <p>© 2025 Blog Sederhana</p>
-  </footer>
-</body>
-</html># junita angkut
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <title>Tentang Saya</title>
-  <link rel="stylesheet" href="css/style.css">
-</head>
-<body>
-  <header>
-    <h1>Blog Sederhana</h1>
-    <nav>
-      <a href="index.html">Beranda</a>
-      <a href="about.html">Tentang</a>
-    </nav>
-  </header>
-
-  <main>
-    <h2>Tentang Saya</h2>
-    <p>Halo! Junita Angkut Bisa Menerima/Mengangkut Barang Anda Di Daerah Bali Dan Lombok Dengan Harga Terjangkau Dan Dengan Keamanan Yang Tidak Bisa Diragukan Lagi</p>
   </main>
 
   <footer>
     <p>© 2025 Junita Angkut</p>
-  </footer>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <title>Judul Postingan Pertama</title>
-  <link rel="stylesheet" href="../css/style.css">
-</head>
-<body>
-  <header>
-    <h1>Blog Sederhana</h1>
-    <nav>
-      <a href="../index.html">Beranda</a>
-      <a href="../about.html">Tentang</a>
-    </nav>
-  </header>
-
-  <main>
-    <h2>Judul Postingan Pertama</h2>
-    <p><em>2 Juni 2025</em></p>
-    <p>Ini adalah isi lengkap dari postingan pertama saya. Saya menulis ini sebagai permulaan dari blog sederhana saya.</p>
-  </main>
-
-  <footer>
-    <p>© 2025 Blog Sederhana</p>
-  </footer>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8">
-  <title>Judul Postingan Kedua</title>
-  <link rel="stylesheet" href="../css/style.css">
-</head>
-<body>
-  <header>
-    <h1>Blog Sederhana</h1>
-    <nav>
-      <a href="../index.html">Beranda</a>
-      <a href="../about.html">Tentang</a>
-    </nav>
-  </header>
-
-  <main>
-    <h2>Judul Postingan Kedua</h2>
-    <p><em>2 Juni 2025</em></p>
-    <p>Ini adalah postingan kedua saya. Semoga blog ini bisa berkembang seiring waktu.</p>
-  </main>
-
-  <footer>
-    <p>© 2025 Blog Sederhana</p>
-  </footer>
-</body>
-</html>
-body {
+    body {
   font-family: sans-serif;
   max-width: 800px;
   margin: auto;
@@ -145,3 +57,34 @@ footer {
   color: gray;
   margin-top: 40px;
 }
+    
+  </footer>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Junita Angkut Barang Luar Bali</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Junita Angkut Luar Bali</h1>
+    <nav>
+      <a href="../index.html">Beranda</a>
+      <a href="../about.html">Tentang</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Junita Angkut Luar Bali</h2>
+    <p><em>2 Juni 2025</em></p>
+    <p>Halo...Junita Angkut Juga Memberikan Anda Yang Di Daerah Luar Bali Khususnya Lombok Bisa Menggunakan Jasa Kami Untuk Mengirim Barang Dari Lombok Ke Bali Ataupun Sebaliknya Dengan Harga Yang Terjangkau Dan Keamanan Yang Tidak Perlu Di Ragukan Lagi. </p>
+  </main>
+
+  <footer>
+    <p>© 2025 Junita Angkut</p>
+  </footer>
+</body>
+</html>

@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
   <meta charset="UTF-8">
-  <title>Blog Sederhana</title>
+  <title>JUNITA ANGKUT</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>

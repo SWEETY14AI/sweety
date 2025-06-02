@@ -49,11 +49,11 @@
 
   <main>
     <h2>Tentang Saya</h2>
-    <p>Halo! Saya adalah penulis blog ini. Di sini saya menulis tentang topik yang saya minati seperti teknologi, kehidupan, dan hal-hal sederhana sehari-hari.</p>
+    <p>Halo! Junita Angkut Bisa Menerima/Mengangkut Barang Anda Di Daerah Bali Dan Lombok Dengan Harga Terjangkau Dan Dengan Keamanan Yang Tidak Bisa Diragukan Lagi</p>
   </main>
 
   <footer>
-    <p>© 2025 Blog Sederhana</p>
+    <p>© 2025 Junita Angkut</p>
   </footer>
 </body>
 </html>
